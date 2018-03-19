@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+
+main
+{
+int a,b,sum;
+printf("enter A Number");
+Scanf("%d"&a);
+Scanf("%d"&b);
+sum=a+b;
+Printf("sum these two numbers is = "&sum);
+clrscr();
+}
