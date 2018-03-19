@@ -8,6 +8,6 @@ printf("enter A Number");
 Scanf("%d"&a);
 Scanf("%d"&b);
 sum=a+b;
-Printf("sum these two numbers is = "&sum);
 clrscr();
+Printf("sum these two numbers is = "&sum);
 }
