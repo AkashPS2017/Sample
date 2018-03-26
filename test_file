@@ -10,4 +10,6 @@ Scanf("%d"&b);
 sum=a+b;
 clrscr();
 Printf("sum these two numbers is = "&sum);
+Printf("the modification for "fetch command");
+Printf("the modification for "fetch command");
 }
